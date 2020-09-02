@@ -30,5 +30,11 @@
     <artifactId>junit</artifactId>
     <version>4.12</version>
    </dependency>
+   <dependency>
+  <groupId>org.apache.maven.plugins</groupId>
+  <artifactId>maven-shade-plugin</artifactId>
+  <version>3.2.4</version>
+  <type>maven-plugin</type>
+</dependency>
  </dependencies>
 </project>
